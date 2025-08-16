@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253547256848",
+    "project_id": "frontend-c7455",
+    "storage_bucket": "frontend-c7455.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253547256848:android:de7516d2296e12ee3cbe95",
+        "android_client_info": {
+          "package_name": "com.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2snnjbF15MxlH3q_eG5ANAiJspmy204c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
